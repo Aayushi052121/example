@@ -1,4 +1,4 @@
 # first
 its my first repo
 <br>
-author aayu
+author aayushi sarda
